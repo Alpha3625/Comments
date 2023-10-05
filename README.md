@@ -1,5 +1,5 @@
-# Стажировка в Hotels.ru - Второй этап
+# Comments
 
-Первый Проект Comments:
+## Stack: [![My Skills](https://skillicons.dev/icons?i=html,sass,js)](https://skillicons.dev)
 
-https://artyomxxx.github.io/Comments/
+## Ссылка: [Посмотреть](https://artyomxxx.github.io/Comments/)
